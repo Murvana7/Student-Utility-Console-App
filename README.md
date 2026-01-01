@@ -35,5 +35,3 @@ Each feature is implemented as a **separate function** to keep the code modular 
 - **C** – core implementation
 - **Standard input/output (CLI)**
 
-## 📂 Project Structure
-
